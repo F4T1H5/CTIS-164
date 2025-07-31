@@ -1,4 +1,4 @@
-# CTIS164 – Technical Mathematics with Programming
+# CTIS164 – Technical Mathematics with Programming (Fall Semester 2023-2024)
 
 This repository contains homework assignments for CTIS164, which combines mathematics with C++ programming and basic graphics using OpenGL/FreeGLUT.
 
